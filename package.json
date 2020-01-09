@@ -56,6 +56,6 @@
     "keymirror": "^0.1.1",
     "shortid": "^2.1.3",
     "browserify-shim": "^3.8.3",
-    "uglifycss": "0.0.13"
+    "uglifycss": "0.0.29"
   }
 }
